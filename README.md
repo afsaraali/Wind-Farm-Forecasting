@@ -20,7 +20,7 @@ The libraries that were used to complete this project are:
 
 - pandas
 - numpy
-- datetime`
+- datetime
 - itertools
 - time
 - tqdm
@@ -143,5 +143,3 @@ The LSTM model is especially promising, but the AR model could be even more impr
 - I can implement a more robust LSTM with added layers to all of the wind farms in the datasets.
 
 -  I can deploy my apps remotely. They are hosted locally through voila and ngrok as of now.
-
-- I can implement a more robust LSTM with added layers to all of the wind farms in the datasets.
